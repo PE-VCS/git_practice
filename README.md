@@ -1,6 +1,6 @@
 # git_practice
 
-making a change to readme
+Creating a conflict
 
 Adding changes from a feature branch
 
