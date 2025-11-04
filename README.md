@@ -1,6 +1,6 @@
 # git_practice
 
-Creating a conflict
+Replacing this line of the file
 
 Adding changes from a feature branch
 
